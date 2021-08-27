@@ -37,3 +37,6 @@ button{
   background-color: black;
   color:white;
 }
+
+button:hover{
+  background-color: #555;
